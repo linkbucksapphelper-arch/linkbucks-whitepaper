@@ -2,7 +2,7 @@
 
 ## AGI 토큰 개요
 
-AGI(Artificial General Intelligence) 토큰은 Delysium 생태계의 핵심 디지털 자산으로, AI 에이전트 네트워크의 경제적 기반을 형성합니다.
+AGI(Artificial General Intelligence) 토큰은 Linkbucks 생태계의 핵심 디지털 자산으로, AI 에이전트 네트워크의 경제적 기반을 형성합니다.
 
 ## 기본 정보
 
