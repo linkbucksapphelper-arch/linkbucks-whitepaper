@@ -1,6 +1,6 @@
 # 목차
 
-* [AI-에이전트도 사랑이 필요해](README.md)
+* [Linkbucks: 연결하고 보상받는 블록체인 네트워크](README.md)
 
 ## 개요
 * [초록](abstract.md)
@@ -37,6 +37,6 @@
   * [커뮤니티 및 이니셔티브](technical-overview/community-initiatives.md)
     * [개발자 커뮤니티 프로그램](technical-overview/developer-programs.md)
     * [인센티브 프로그램](technical-overview/incentive-programs.md)
-      * [AGI-USDT LP 스테이킹](technical-overview/agi-usdt-lp-staking.md)
-      * [AGI 단일 토큰 스테이킹](technical-overview/agi-single-staking.md)
+      * [LBC-USDT LP 스테이킹](technical-overview/lbc-usdt-lp-staking.md)
+      * [LBC 단일 토큰 스테이킹](technical-overview/lbc-single-staking.md)
       * [로열티 프로그램](technical-overview/loyalty-program.md)
