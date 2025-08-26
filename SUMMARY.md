@@ -1,42 +1,36 @@
 # 목차
 
-* [Linkbucks: 연결하고 보상받는 블록체인 네트워크](README.md)
+* [Linkbucks: 연결하고 보상받는 블록체인 생태계](README.md)
 
 ## 개요
 * [초록](abstract.md)
-* [소개](introduction.md)
-* [기회 분석](opportunity-analysis.md)
+* [L.I.N.K Protocol 소개](introduction.md)
+* [NFT 채굴과 파트너십의 미래](opportunity-analysis.md)
 
-## 기술 개요
-* [기술 개요](technical-overview/README.md)
-  * [기본 레이어: "YKILY" AI-에이전트 네트워크](technical-overview/fundamental-layer.md)
-    * [상호운용성 및 접근성](technical-overview/interoperability-accessibility.md)
-    * [인프라](technical-overview/infrastructure.md)
-    * [보안 및 프라이버시](technical-overview/security-privacy.md)
-    * [동기화 크로니클](technical-overview/synchronization-chronicle.md)
-    * [향상된 보안 및 프라이버시](technical-overview/enhanced-security-privacy.md)
-  * [블록체인 레이어 - AI × 블록체인 통합](technical-overview/blockchain-layer.md)
-    * [분산형 크로니클](technical-overview/decentralized-chronicle.md)
-    * [에이전트-ID](technical-overview/agent-id.md)
-    * [병렬 운영](technical-overview/parallel-operation.md)
-  * [토크노믹스](technical-overview/tokenomics.md)
-    * [분배 및 할당](technical-overview/tokenomics-distribution.md)
-    * [미래 전망](technical-overview/tokenomics-future.md)
-    * [글로벌 영향](technical-overview/tokenomics-global-impact.md)
-  * [AI 에이전트, 도구 및 서비스](technical-overview/ai-agents-tools-services.md)
-    * [프로파일](technical-overview/agent-profile.md)
-    * [메모리](technical-overview/agent-memory.md)
-    * [계획](technical-overview/agent-planning.md)
-    * [액션](technical-overview/agent-action.md)
-    * [커뮤니케이션](technical-overview/agent-communication.md)
-  * [미래 서비스 및 애플리케이션](technical-overview/future-services.md)
-    * [API 및 라이브러리](technical-overview/apis-libraries.md)
-    * [시뮬레이션 및 테스팅 도구](technical-overview/simulation-testing.md)
-    * [문서화 및 학습 자료](technical-overview/documentation-learning.md)
-    * [웹 리더 서비스](technical-overview/web-reader-service.md)
-  * [커뮤니티 및 이니셔티브](technical-overview/community-initiatives.md)
-    * [개발자 커뮤니티 프로그램](technical-overview/developer-programs.md)
-    * [인센티브 프로그램](technical-overview/incentive-programs.md)
-      * [LBC-USDT LP 스테이킹](technical-overview/lbc-usdt-lp-staking.md)
-      * [LBC 단일 토큰 스테이킹](technical-overview/lbc-single-staking.md)
-      * [로열티 프로그램](technical-overview/loyalty-program.md)
+## 핵심 3대축
+* [💎 CUBE NFT Hub](technical-overview/cube-nft-hub.md)
+  * [CUBE NFT 채굴 시스템](technical-overview/cube-mining-system.md)
+  * [노드 운영 메커니즘](technical-overview/node-operation.md)
+  * [수익 모델 및 지급 시스템](technical-overview/revenue-model.md)
+
+* [🔗 L.I.N.K Protocol](technical-overview/link-protocol.md)
+  * [통합 접근 시스템](technical-overview/integrated-access.md)
+  * [파트너십 연결 구조](technical-overview/partnership-connection.md)
+  * [확장성 및 호환성](technical-overview/scalability.md)
+
+* [🤝 Partnership Ecosystem](technical-overview/partnership-ecosystem.md)
+  * [파트너 DeFi 서비스](technical-overview/partner-defi.md)
+  * [AI 평등 실현](technical-overview/ai-equality.md)
+  * [생태계 확장 로드맵](technical-overview/ecosystem-expansion.md)
+
+## 경제 모델
+* [$LBC 토크노믹스](technical-overview/tokenomics.md)
+  * [채굴 경제학](technical-overview/mining-economics.md)
+  * [토큰 유틸리티](technical-overview/token-utility.md)
+  * [지속가능한 성장 모델](technical-overview/sustainable-growth.md)
+
+## 기술 구조
+* [폴리곤 기반 인프라](technical-overview/polygon-infrastructure.md)
+  * [네트워크 아키텍처](technical-overview/network-architecture.md)
+  * [보안 및 투명성](technical-overview/security-transparency.md)
+  * [사용자 경험 최적화](technical-overview/user-experience.md)
